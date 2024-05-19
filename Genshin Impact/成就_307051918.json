@@ -1,0 +1,376 @@
+{
+  "info": {
+    "export_app": "胡桃",
+    "export_timestamp": 1716139033,
+    "export_app_version": "1.10.1.0",
+    "uiaf_version": "v1.1"
+  },
+  "list": [
+    {
+      "id": 80001,
+      "timestamp": 1715149564,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 82006,
+      "timestamp": 1714913725,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 82007,
+      "timestamp": 1714917893,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 82013,
+      "timestamp": 1715149576,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 82014,
+      "timestamp": 1714913791,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 82025,
+      "timestamp": 1714916310,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 82041,
+      "timestamp": 1714913703,
+      "current": 5000,
+      "status": 3
+    },
+    {
+      "id": 82042,
+      "timestamp": 1714913712,
+      "current": 20000,
+      "status": 3
+    },
+    {
+      "id": 82043,
+      "timestamp": 1714913713,
+      "current": 50000,
+      "status": 3
+    },
+    {
+      "id": 84001,
+      "timestamp": 1714915853,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 84002,
+      "timestamp": 1715149583,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 84004,
+      "timestamp": 1714910013,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 84005,
+      "timestamp": 1714912242,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 84006,
+      "timestamp": 1714978295,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 84007,
+      "timestamp": 1715143911,
+      "current": 1,
+      "status": 3
+    },
+    {
+      "id": 84515,
+      "timestamp": 1715585416,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 81015,
+      "timestamp": 1715585430,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 82004,
+      "timestamp": 1715585449,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80008,
+      "timestamp": 1715590329,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 82015,
+      "timestamp": 1715593254,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 82026,
+      "timestamp": 1715593265,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 81005,
+      "timestamp": 1715666250,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80040,
+      "timestamp": 1715668483,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80037,
+      "timestamp": 1715752878,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 82022,
+      "timestamp": 1715752890,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80030,
+      "timestamp": 1715753937,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80034,
+      "timestamp": 1715754771,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84008,
+      "timestamp": 1715759870,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84000,
+      "timestamp": 1715760858,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84003,
+      "timestamp": 1715760864,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80031,
+      "timestamp": 1715762196,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 81004,
+      "timestamp": 1715764423,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80032,
+      "timestamp": 1715764637,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 81010,
+      "timestamp": 1715923633,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80026,
+      "timestamp": 1715923648,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 82027,
+      "timestamp": 1715923670,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84527,
+      "timestamp": 1715923767,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80002,
+      "timestamp": 1715924382,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 82002,
+      "timestamp": 1715924394,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 81022,
+      "timestamp": 1715947784,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84011,
+      "timestamp": 1715998928,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80043,
+      "timestamp": 1716000850,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84012,
+      "timestamp": 1716001455,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84009,
+      "timestamp": 1716010973,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 81045,
+      "timestamp": 1716018937,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 82063,
+      "timestamp": 1716020802,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80009,
+      "timestamp": 1716021502,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80027,
+      "timestamp": 1716099896,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80005,
+      "timestamp": 1716099920,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80014,
+      "timestamp": 1716102532,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84013,
+      "timestamp": 1716104644,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84014,
+      "timestamp": 1716105954,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 81048,
+      "timestamp": 1716106004,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84015,
+      "timestamp": 1716106793,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84016,
+      "timestamp": 1716108179,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84017,
+      "timestamp": 1716108254,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 84010,
+      "timestamp": 1716108625,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 81016,
+      "timestamp": 1716136198,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 82054,
+      "timestamp": 1716136209,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 86012,
+      "timestamp": 1716136219,
+      "current": 0,
+      "status": 3
+    },
+    {
+      "id": 80038,
+      "timestamp": 1716138949,
+      "current": 0,
+      "status": 3
+    }
+  ]
+}
