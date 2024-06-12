@@ -1,0 +1,15 @@
+# 启动游戏
+# 退出当前SSH连接时需要先使用 exit，否则断开连接会关闭后台任务
+nohup /opt/factorio/bin/x64/factorio \
+--port 34197 \
+--config /opt/factorio/config/config.ini \
+--server-adminlist /opt/factorio/adminlist.json \
+--start-server /opt/factorio/saves/2022年07月21日.zip \
+--server-settings /opt/factorio/data/server-settings.json \
+>/opt/factorio/logs/2022年10月06日.log 2>&1 &
+
+
+
+关闭游戏
+netstat -nlp |grep :34197
+kill -9 15075 # 进程号
